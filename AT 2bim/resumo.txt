@@ -1,0 +1,1 @@
+As classes carro e motocicleta herdam os atributos da classe abstrata veiculo. Assim dentro do contructor dessas duas classes, se pode criar um super constructor, que traz o contructor do veiculo para as classes carro e motocicleta.
